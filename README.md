@@ -1,4 +1,4 @@
-# Kenny Palibutan - Data Analyst
+# Data Analyst
 
 👋 **Hello and welcome!**
 
