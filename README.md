@@ -31,6 +31,8 @@ I am *Kenny Palibutan*, a highly driven **data enthusiast** with a strong passio
 
   [Grade: 89.30% (A)](https://drive.google.com/file/d/1q50mdULf1XtPnLN17Z7mjhmnHITl39tc/view)
 
+  [Certification](https://drive.google.com/file/d/1ZmSfEPzomY3g8nLm4_tFJXRBVOipxeBn/view)
+
 - **Bina Nusantara University (Jakarta, Indonesia)**
 
   *Bachelor of Engineering (2014 - 2018)*
