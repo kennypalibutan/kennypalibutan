@@ -7,7 +7,7 @@ I am *Kenny Palibutan*, a highly driven **data enthusiast** with a strong passio
 ---
 
 ### 💼 Experience
-**- Mortgage Loan Analyst and Reporting (2022 - 2026)**
+- **Mortgage Loan Analyst and Reporting (2022 - 2026)**
 
 *PT Bank Pan Indonesia Tbk*
 
@@ -25,13 +25,13 @@ Results-driven Data Analyst specializing in financial and mortgage data, deliver
 ---
 
 ### 🎓 Education
-**- Hacktiv8 Bootcamp (Jakarta, Indonesia)**
+- **Hacktiv8 Bootcamp (Jakarta, Indonesia)**
 
 *Comprehensive Data Analyst Program (January 2026 – April 2026)*
 
 [Grade: 89.30% (A)](https://drive.google.com/file/d/1q50mdULf1XtPnLN17Z7mjhmnHITl39tc/view)
 
-**- Bina Nusantara University (Jakarta, Indonesia)**
+- **Bina Nusantara University (Jakarta, Indonesia)**
 
 *Bachelor of Engineering (2014 - 2018)*
 
