@@ -6,28 +6,21 @@ I am *Kenny Palibutan*, a highly driven **data enthusiast** with a strong passio
 
 ---
 
-### 🚀 About Me
-🌱 Currently Learning: 
-🔍 Collaboration Interests: 
-🌐 Background Insight: 
-🎉 Fun Fact: 
-
----
-
-### 📫 Connect with Me
-LinkedIn: 
-Email: 
-
----
-
 ### 🛠 Skills
-- Languages: Python
-- Data Analysis & Visualization: Tableau, Pandas, Matplotlib
-- Database Management: PostgreSQL
-- Other Skills: ETL Development, Feature Engineering, Data Wrangling, Real-time Data Pipelines
+- General Skills: Data Analysis, Data Wrangling & Data Cleaning, Exploratory Data Analysis (EDA), Statistical Analysis (Descriptive & Inferential Statistics), Time Series Analysis & Forecasting, Data Visualization & Data Storytelling, Business Analysis & Business Insight, ETL Process (Extract, Transform, Load), Data Modeling & Data Warehousing, Data Validation & Data Quality Assurance, Big Data Processing (Batch & Stream Processing), Technical Presentation 
+- Programming Language: SQL, Python
+- Libraries / Framework: Pandas, NumPy, Pyspark, Requests (API handling), BeautifulSoup / Scrapy (Web Scraping), Matplotlib, Seaborn, Apache Airflow (workflow orchestration), Docker (containerization)
+- Tools: Git & GitHub, PostgreSQL, MongoDB (NoSQL Database), Google Sheets / Microsoft Excel (Spreadsheet), Tableau, Looker Studio, Apache Airflow, Docker, Visual Code Studio, Google Collab
+- Language: Bahasa Indonesia, English
 
 ---
 
 ### 🎓 Education
-Hacktiv8 Data Analyst Bootcamp
-Core Skills Developed: 
+**Hacktiv8 Bootcamp (Jakarta, Indonesia)**
+*Comprehensive Data Analyst Program (January 2026 – April 2026)*
+[Grade: 89.30% (A)]<https://drive.google.com/file/d/1q50mdULf1XtPnLN17Z7mjhmnHITl39tc/view>
+
+**Bina Nusantara University (Jakarta, Indonesia)**
+*Bachelor of Engineering (2014 - 2018)*
+Industrial Engineering on Service System
+
