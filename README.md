@@ -37,5 +37,5 @@ I am *Kenny Palibutan*, a highly driven **data enthusiast** with a strong passio
 
   *Bachelor of Engineering (2014 - 2018)*
 
-  Industrial Engineering on Service System
+  Industrial Engineering
 
