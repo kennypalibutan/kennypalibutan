@@ -29,7 +29,7 @@ I am *Kenny Palibutan*, a highly driven **data enthusiast** with a strong passio
 
   *Comprehensive Data Analyst Program (January 2026 – April 2026)*
 
-[Grade: 89.30% (A)](https://drive.google.com/file/d/1q50mdULf1XtPnLN17Z7mjhmnHITl39tc/view)
+  [Grade: 89.30% (A)](https://drive.google.com/file/d/1q50mdULf1XtPnLN17Z7mjhmnHITl39tc/view)
 
 - **Bina Nusantara University (Jakarta, Indonesia)**
 
