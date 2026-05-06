@@ -8,6 +8,7 @@ I am *Kenny Palibutan*, a highly driven **data enthusiast** with a strong passio
 
 ### 💼 Experience
 **Mortgage Loan Analyst and Reporting (2022 - 2026)**
+
 *PT Bank Pan Indonesia Tbk*
 
 Results-driven Data Analyst specializing in financial and mortgage data, delivering actionable insights to improve decision-making, optimize loan approval accuracy, and mitigate risk. Experienced in data validation, risk analysis, and translating complex datasets into clear, business-focused recommendations while ensuring KYC/AML compliance.
