@@ -1,4 +1,4 @@
-# Data Analyst | Data Visualization | Business Insight
+# Data Analyst | Data Visualization | Business Insight | Data Engineer
 
 👋 **Hello and welcome!**
 
